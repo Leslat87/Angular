@@ -1,7 +1,7 @@
 {
   "users": [
     {
-      "id": 1,
+      "id": "1",
       "usuario": "John Doe",
       "email": "john.due@gmail.com"
     }
@@ -21,7 +21,8 @@
       "publisher": "DC Comics",
       "alter_ego": "Kal-El",
       "first_appearance": "Action Comics #1",
-      "characters": "Kal-El"
+      "characters": "Kal-El",
+      "alt_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_vx198UiG5NH3paSCGX8oOB-BsRSqmHg3LJtsnxai5A&s"
     },
     {
       "id": "dc-flash",
@@ -166,6 +167,15 @@
       "alter_ego": "Norrin Radd",
       "first_appearance": "The Fantastic Four #48",
       "characters": "Norrin Radd"
+    },
+    {
+      "id": "",
+      "superhero": "Ismael",
+      "publisher": "Marvel Comics",
+      "alter_ego": "Faren",
+      "first_appearance": "HMM comic",
+      "characters": "Faren, Leslat",
+      "alt_img": "https://wiki-es.guildwars2.com/images/8/8b/Lord_Faren.jpg"
     }
   ]
 }
