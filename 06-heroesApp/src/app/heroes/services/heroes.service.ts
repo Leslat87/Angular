@@ -32,6 +32,7 @@ export class HeroesService {
   }
 
   addHero(hero: Hero): Observable<Hero> {
+    
     return this.http.post<Hero>(`${ this.baseUrl }/heroes`, hero);
   }
 
@@ -42,7 +43,7 @@ export class HeroesService {
   }
 
   deleteHeroById(id: string): Observable<boolean> {
-    
+
 
     return this.http.delete(`${ this.baseUrl }/heroes/${ id }`)
     .pipe(

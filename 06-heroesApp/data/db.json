@@ -2,7 +2,7 @@
   "users": [
     {
       "id": "1",
-      "usuario": "John Doe",
+      "user": "John Doe",
       "email": "john.due@gmail.com"
     }
   ],
@@ -176,6 +176,15 @@
       "first_appearance": "HMM comic",
       "characters": "Faren, Leslat",
       "alt_img": "https://wiki-es.guildwars2.com/images/8/8b/Lord_Faren.jpg"
+    },
+    {
+      "id": "asdfa",
+      "superhero": "asdfa",
+      "publisher": "DC Comics",
+      "alter_ego": "afsdfa",
+      "first_appearance": "asdffa",
+      "characters": "assdffa",
+      "alt_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWz0LiqZ24zvupQGtIuoYHoC2Rewn5KYMSmv064tva4Q&s"
     }
   ]
 }
