@@ -2,5 +2,8 @@
   "dependencies": {
     "bootstrap": "^5.3.3",
     "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "dotenv": "^16.4.5"
   }
 }
